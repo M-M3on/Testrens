@@ -13,7 +13,7 @@ Vous pouvez créer :
 Les séquences d'images sont entièrement paramétrables (délais, affichage, temps de réponse, type de réponse possible, correction)
 
 
-# Licence:
+# Licence
 
 Ce logiciel est fourni "tel quel", sans aucune garantie expresse ou implicite. 
 L'auteur ne peut être tenu pour responsable de tout dommage découlant de l'utilisation de ce logiciel.
