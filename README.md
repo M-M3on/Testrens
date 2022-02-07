@@ -4,13 +4,13 @@ Le logiciel Testrens permet de créer des diaporamas d'images à partir de leur 
 Le nom utilisé pour définir l'image, sera celui de son dossier racine.
 
 Vous pouvez créer :
-  - vos propres listes de dossiers images
-  - des fiches pour chaque dossiers
-  - des listes de Tag et les associer à vos dossiers
+  - vos propres listes de dossiers images.
+  - des fiches pour chaque dossiers.
+  - des listes de Tag et les associer à vos dossiers.
     Il est possible d'éffectuer des recherches de dossiers par Tag ou par nom.
   - des tests ou l'utilisateur dispose d'un délai permettant de deviner le nom de l'image.
     
-Les séquences d'images sont entièrement paramétrables (délais, affichage, temps de réponse, type de réponse possible, correction)
+Les séquences d'images sont entièrement paramétrables (délais, affichage, temps de réponse, type de réponse possible, correction).
 
 
 # Licence
