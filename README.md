@@ -33,6 +33,6 @@ Vous êtes autorisé à :
 
 Si vous utilisez ce logiciel pour distribuer un produit, une référence à l'auteur dans la documentation du produit serait appréciée mais n'est pas obligatoire.
 _________________________________________
-Créateur/Auteur de TestRens : Méon Mikael
+Créateur/Auteur de TestRens : Méon Mikael | 
 Mail : mikael.meon@orange.fr
 _________________________________________
