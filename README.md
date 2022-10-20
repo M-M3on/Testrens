@@ -19,11 +19,11 @@ Ce contrat de licence s'applique à la version gratuite de ce logiciel.
 
 Termes et conditions
 
-EN TÉLÉCHARGEANT, INSTALLANT, UTILISANT, TRANSMETTANT, DISTRIBUANT OU COPIANT CE LOGICIEL ("TESTRENS"), VOUS ACCEPTEZ LES TERMES DE CET ACCORD (Y COMPRIS LA LICENCE DU LOGICIEL ET L'EXCLUSION DE GARANTIE) AVEC MIKAEL MEON, L’AUTEUR ET LE PROPRIÉTAIRE DE TOUS LES DROITS CONCERNANT LE LOGICIEL TESTRENS.
+En téléchargeant, installant, utilisant, transmettant, distribuant ou copiant ce logiciel ("testrens"), vous acceptez les termes de cet accord (y compris la licence du logiciel et l'exclusion de garantie) avec mikael meon, l’auteur et le propriétaire de tous les droits concernant le logiciel testrens.
 
-SI VOUS N'ACCEPTEZ PAS LES TERMES DE CETTE LICENCE, NE TÉLÉCHARGEZ PAS, N'INSTALLEZ PAS, N'UTILISEZ PAS, NE TRANSMETTEZ PAS, NE DISTRIBUEZ PAS ET NE COPIEZ PAS LE LOGICIEL.
+Si vous n'acceptez pas les termes de cette licence, ne téléchargez pas, n'installez pas, n'utilisez pas, ne transmettez pas, ne distribuez pas et ne copiez pas le logiciel.
 
-CE DOCUMENT CONSTITUE UNE LICENCE D'UTILISATION DU LOGICIEL SELON LES TERMES ET CONDITIONS APPARAISSANT CI-DESSOUS.
+Ce document constitue une licence d'utilisation du logiciel selon les termes et conditions apparaissant ci-dessous.
 
 Le logiciel vous est concédé gratuitement sous licence pour une utilisation uniquement selon les termes de cette licence, et l’auteur du logiciel se réserve tous les droits qui ne vous sont pas expressément accordés.
 L’auteur du logiciel conserve la propriété de toutes les copies du Logiciel.
@@ -41,8 +41,8 @@ Vous pouvez distribuer des copies exactes du Logiciel.
 
 L’auteur du logiciel se réserve le droit de révoquer le droit de distribution ci-dessus à tout moment, pour quelque raison que ce soit ou sans raison.
 
-VOUS NE POUVEZ PAS MODIFIER, ADAPTER, TRADUIRE, LOUER, PRÊTER, VENDRE, REVENDRE, DEMANDER DES DONS OU CRÉER
-TRAVAUX DÉRIVÉS BASÉS SUR LE LOGICIEL OU TOUTE PARTIE DE CELUI-CI.
+Vous ne pouvez pas modifier, adapter, traduire, louer, prêter, vendre, revendre, demander des dons ou créer
+travaux dérivés basés sur le logiciel ou toute partie de celui-ci.
 
 Le code source du logiciel est la propriété de Mikael Méon et pour le protéger, vous ne pouvez pas décompiler, désosser, désassembler ou autrement réduire le Logiciel à une forme humainement perceptible. Vous acceptez de ne pas divulguer, directement ou indirectement, le logiciel jusqu'à ce que le code source cesse d'être confidentiel, pour quelque raison que ce soit.
 
@@ -52,11 +52,11 @@ Cette licence est effective jusqu'à sa résiliation. La licence sera automatiqu
 
 4) Exclusion de garantie, limitation des recours
 
-L’AUTEUR DU LOGICIEL EXCLUT PAR LA PRÉSENTE TOUTES LES CONDITIONS ET GARANTIES, QU'ELLES SONT IMPOSÉES PAR LA LOI OU PAR L'APPLICATION DE LA LOI OU AUTREMENT, NON EXPRESSÉMENT ÉNONCÉES PAR LA PRÉSENTE. LE LOGICIEL ET TOUS LES FICHIERS, DONNÉES ET DOCUMENTS L'ACCOMPAGNANT SONT DISTRIBUÉS « EN L'ÉTAT » ET SANS AUCUNE GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE. L’AUTEUR DU LOGICIEL NE GARANTIT PAS, NE FAIT AUCUNE DÉCLARATION CONCERNANT L'UTILISATION, OU LES RÉSULTATS DE L'UTILISATION, DU LOGICIEL EN CE QUI CONCERNE SON EXACTITUDE, SON EXACTITUDE, SA FIABILITÉ, SON ACTUALITÉ OU AUTRE. VOUS ASSUMEZ L'ENSEMBLE DES RISQUES LIÉS À L'UTILISATION DU LOGICIEL. L’AUTEUR DU LOGICIEL N'OFFRE AUCUNE GARANTIE OU CONDITION EXPRESSE OU IMPLICITE, Y COMPRIS, SANS S'Y LIMITER, LES GARANTIES DE QUALITÉ MARCHANDE OU D'ADÉQUATION À UN USAGE PARTICULIER EN CE QUI CONCERNE LE LOGICIEL. AUCUNE INFORMATION OU CONSEIL ORAL OU ÉCRIT DONNÉ PAR L’AUTEUR DU LOGICIEL, SES DISTRIBUTEURS, AGENTS OU EMPLOYÉS NE CONSTITUE UNE GARANTIE, ET VOUS NE POUVEZ PAS VOUS FIER À CES INFORMATIONS OU AVIS.
+L’auteur du logiciel exclut par la présente toutes les conditions et garanties, qu'elles sont imposées par la loi ou par l'application de la loi ou autrement, non expressément énoncées par la présente. le logiciel et tous les fichiers, données et documents l'accompagnant sont distribués « en l'état » et sans aucune garantie d'aucune sorte, expresse ou implicite. l’auteur du logiciel ne garantit pas, ne fait aucune déclaration concernant l'utilisation, ou les résultats de l'utilisation, du logiciel en ce qui concerne son exactitude, son exactitude, sa fiabilité, son actualité ou autre. vous assumez l'ensemble des risques liés à l'utilisation du logiciel. l’auteur du logiciel n'offre aucune garantie ou condition expresse ou implicite, y compris, sans s'y limiter, les garanties de qualité marchande ou d'adéquation à un usage particulier en ce qui concerne le logiciel. aucune information ou conseil oral ou écrit donné par l’auteur du logiciel, ses distributeurs, agents ou employés ne constitue une garantie, et vous ne pouvez pas vous fier à ces informations ou avis.
 
 REMARQUE IMPORTANTE : Rien dans le présent Contrat n'est destiné ou ne doit être interprété comme excluant ou modifiant les droits, garanties ou conditions statutaires qui, en vertu de toute législation nationale ou étatique sur le commerce équitable, les pratiques commerciales ou toute autre législation de ce type ne peuvent être modifiées ou exclues. Toutefois, si cette législation le permet, la responsabilité de l’auteur du logiciel pour toute violation d'une telle garantie ou condition sera et est par la présente limitée à la fourniture du logiciel sous licence ci-dessous, car l’auteur du logiciel, à sa seule discrétion, peut déterminer qu'il est nécessaire de corriger ladite infraction.
 
-EN AUCUN CAS, L’AUTEUR DU LOGICIEL NE PEUT ÊTRE TENU RESPONSABLE DE TOUT DOMMAGE SPÉCIAL, ACCESSOIRE, INDIRECT OU CONSÉCUTIF (Y COMPRIS, SANS S'Y LIMITER, LES DOMMAGES POUR PERTE DE PROFITS COMMERCIAUX, L'INTERRUPTION D'ACTIVITÉ ET LA PERTE D'INFORMATIONS COMMERCIALES OU DE PROGRAMMES INFORMATIQUES), MÊME SI L’AUTEUR DU LOGICIEL OU TOUT REPRÉSENTANT DE L’AUTEUR DU LOGICIEL A ÉTÉ INFORMÉ DE LA POSSIBILITÉ DE TELS DOMMAGES. DE PLUS, L’AUTEUR DU LOGICIEL NE VOUS AUTORISE EN AUCUN CAS À UTILISER LE LOGICIEL DANS DES SITUATIONS OÙ LE DÉFAUT DE FONCTIONNEMENT DU LOGICIEL PEUT RAISONNABLEMENT ÊTRE ATTENDU ENTRAÎNER UNE BLESSURE PHYSIQUE OU LA MORT. TOUTE UTILISATION PAR VOUS EST ENTIÈREMENT À VOS PROPRES RISQUES, ET VOUS ACCEPTEZ DE DÉGAGER L’AUTEUR DU LOGICIEL DE TOUTE RÉCLAMATION OU PERTE LIÉE À UNE TELLE UTILISATION NON AUTORISÉE.
+En aucun cas, l’auteur du logiciel ne peut être tenu responsable de tout dommage spécial, accessoire, indirect ou consécutif (y compris, sans s'y limiter, les dommages pour perte de profits commerciaux, l'interruption d'activité et la perte d'informations commerciales ou de programmes informatiques), même si l’auteur du logiciel ou tout représentant de l’auteur du logiciel a été informé de la possibilité de tels dommages. de plus, l’auteur du logiciel ne vous autorise en aucun cas à utiliser le logiciel dans des situations où le défaut de fonctionnement du logiciel peut raisonnablement être attendu entraîner une blessure physique ou la mort. toute utilisation par vous est entièrement à vos propres risques, et vous acceptez de dégager l’auteur du logiciel de toute réclamation ou perte liée à une telle utilisation non autorisée.
 _________________________________________
 Créateur/Auteur de TestRens : Méon Mikael | 
 Mail : mikael.meon@orange.fr
