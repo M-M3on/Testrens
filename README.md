@@ -1,17 +1,14 @@
 # Testrens
 
-Le logiciel Testrens permet de créer des diaporamas d'images à partir de leur dossiers.
-Le nom utilisé pour définir l'image, sera celui de son dossier racine.
+Testrens est un logiciel permettant de gérer une grosse quantité de dossiers d’images de matériels. Le programme permet de générer plusieurs types de séquences d’images personnalisées, de faire des recherches par critères ou nom de matériels, d’ajouter pour chacun des matériels ses critères et une fiche renseignée. Le logiciel dispose d’une base de critères par défaut déjà renseignée pour quelques matériels (basé sur le nom des dossiers).
 
-Vous pouvez créer :
-  - vos propres listes de dossiers images.
-  - des fiches pour chaque dossiers.
-  - des listes de Tag et les associer à vos dossiers.
-    Il est possible d'éffectuer des recherches de dossiers par Tag ou par nom.
-  - des tests ou l'utilisateur dispose d'un délai permettant de deviner le nom de l'image.
+Vous pouvez :
+  - créer vos propres configuration de listes d'images.
+  - créer des fiches et des critères pour chaque matériel.
+  - Effectuer des recherches de dossiers par Tag ou par nom.
+  - Créer des tests ou l'utilisateur dispose d'un délai permettant de deviner le nom de l'image.
     
 Les séquences d'images sont entièrement paramétrables (délais, affichage, temps de réponse, type de réponse possible, correction).
-
 
 # Licence gratuite
 
